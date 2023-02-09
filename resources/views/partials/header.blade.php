@@ -8,7 +8,7 @@
             </div>
         </div>
     </div>
-    <nav class="navbar bg-primary bg-opacity-25">
+    <nav class="navbar bg-primary bg-opacity-25 mb-4">
         <div class="container-fluid justify-content-center ">
             <a class="navbar-brand" href="{{route('home')}}" class=""m-0 p-0>
                 <img src="{{Vite::asset('resources/assets/img/logo.png')}}" alt="Logo" class="d-inline-block">
